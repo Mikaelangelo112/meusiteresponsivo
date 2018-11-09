@@ -1,0 +1,21 @@
+{
+  "name": "site",
+  "homepage": "https://github.com/Mikaelangelo112/meusiteresponsivo",
+  "authors": [
+    "mikaelangelo112 <mikaelangelo112@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
